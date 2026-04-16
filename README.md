@@ -26,8 +26,8 @@ We are breaking down the biggest ideas in tech into bite-sized "Cat Snacks":
 
 | Topic | The "Kid" Version | Status |
 | :--- | :--- | :--- |
-| **Intro** | [Agent Meow's Secret Origin](https://www.google.com/search?q=lessons/001_agent_meow_origin.md) | 🟢 Active |
-| **NLP** | [The Great Word Chopper](https://www.google.com/search?q=lessons/002_the_word_chopper.md) | 🟢 Active |
+| **Intro** | [Agent Meow's Secret Origin](lessons/001_agent_meow_origin.md) | 🟢 Active |
+| **NLP** | [The Great Word Chopper](lessons/002_the_word_chopper.md) | 🟢 Active |
 | **Classification** | The Pattern Detective & The Mystery Box | ⚪ Planned |
 | **Hierarchies** | The "Lego Rule" (How parts become a whole) | ⚪ Planned |
 
