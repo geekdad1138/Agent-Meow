@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="../assets/word_chopper.png" width="600" alt="Agent Meow using his laser to chop words">
+</p>
+
 # 🐾 Lesson 1: The Great Word Chopper (Tokenization)
 
 "Purrr-fect! Now that you know about my **Number-Brain**, it’s time to see how I actually start my work. 
