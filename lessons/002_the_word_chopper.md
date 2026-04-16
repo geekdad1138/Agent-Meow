@@ -42,10 +42,3 @@ If you were my Word Chopper, where would you slice it to help me understand it b
 "Once I have my blocks, I have to turn them into **Secret Number Codes** so my brain highways can find them. We'll do that in the next lesson!
 
 **"Stay sharp, and keep those scissors ready!"** — *Agent Meow* 🐾
-
-***
-
-### Architect's Notes:
-* **File Name:** `lessons/002_the_word_chopper.md`
-* **Concepts covered:** Tokenization, sub-word units (simplified), and why structured data matters.
-* **Next Lesson Suggestion:** **Embeddings** (Turning those tokens into "Number Codes").
