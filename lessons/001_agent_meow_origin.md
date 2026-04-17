@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="../assets/secret_origin.png" width="600" alt="Agent Meow's Secret Origin">
+</p>
 # 🐾 Agent Meow’s Secret Origin: How I Got My Number-Brain
 
 "Purrr-fect! You found my secret files. 
