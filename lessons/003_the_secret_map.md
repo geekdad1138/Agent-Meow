@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="../assets/secret_map.png" width="600" alt="Agent Meow exploring the holographic map of meaning">
+</p>
+
 # 🐾 Lesson 2: The Secret Map of Everything (Embeddings)
 
 "Purrr-fect\! You’ve chopped your sentence into pieces. But now I have a problem. My brain doesn't understand the letter **'C'** or **'A'** or **'T'**. My brain only understands **Numbers**.
