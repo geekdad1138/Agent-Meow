@@ -1,8 +1,8 @@
-# 🐾 Lesson 3: The Pattern Detective & The Mystery Box (Classification)
+<p align="center">
+  <img src="../assets/pattern_detective.png" width="600" alt="Agent Meow using his laser pointer to sort objects on the mystery box counter"\>
+</p>
 
-\<p align="center"\>
-\<img src="../assets/pattern_detective.png" width="600" alt="Agent Meow using his laser pointer to sort objects on the mystery box counter"\>
-\</p\>
+# 🐾 Lesson 3: The Pattern Detective & The Mystery Box (Classification)
 
 "Purrr-fect\! You’ve chopped your data and mapped your coordinates. You've even connected the 'Brain Highways.' But now we must ask the most important question for an AI Agent:
 
