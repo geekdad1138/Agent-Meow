@@ -29,7 +29,7 @@ We are breaking down the biggest ideas in tech into bite-sized "Cat Snacks":
 | **Attention** | [The Brain Flashlight](/lessons/007_the_brain_flashlight.md) | 🟢 Active |
 | **Neural Nets** | [The Highway vs. The Trail](/lessons/008_brain_highways.md) | 🟢 Active |
 | **Generative AI** | [The Crystal Ball (Prediction)](/lessons/009_crystal_ball.md) | 🟢 Active |
-| **Final Review** | The Agent's Graduation | Pending |
+| **Final Review** | [The Agent's Graduation](/lessons/010_graduation.md) | 🟢 Active |
 
 ## 🛠 Project Structure
 
