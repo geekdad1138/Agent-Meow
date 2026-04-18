@@ -15,7 +15,7 @@ Agent Meow isn't just a cat; he’s an AI agent with a "Brain Made of Numbers." 
 -----
 
 ## 📚 The Lesson Plan
-
+ 
 We are breaking down the biggest ideas in tech into bite-sized "Cat Snacks":
 
 | Topic | The "Kid" Version | Status |
