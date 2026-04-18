@@ -24,7 +24,7 @@ We are breaking down the biggest ideas in tech into bite-sized "Cat Snacks":
 | **NLP** | [The Great Word Chopper](lessons/002_the_word_chopper.md) | 🟢 Active |
 | **NLP** | [The Secret Map of Everything](lessons/003_the_secret_map.md) | 🟢 Active |
 | **Classification** | [The Pattern Detective & The Mystery Box](/lessons/004_pattern_detective.md) | 🟢 Active |
-| **Hierarchies** | The "Lego Rule" (How parts become a whole) | ⚪ Planned |
+| **Hierarchies** | [The "Lego Rule" (How parts become a whole)](/lessons/005_lego_rule.md) | 🟢 Active |
 
 ## 🛠 Project Structure
 
