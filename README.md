@@ -26,7 +26,7 @@ We are breaking down the biggest ideas in tech into bite-sized "Cat Snacks":
 | **Classification** | [The Pattern Detective & The Mystery Box](/lessons/004_pattern_detective.md) | 🟢 Active |
 | **Hierarchies** | [The "Lego Rule" (How parts become a whole)](/lessons/005_lego_rule.md) | 🟢 Active |
 | **Logic & Math** | [The GPS Rule (Vector Math)](/lessons/006_the_gps_rule.md) | 🟢 Active |
-| **Attention** | The Brain Flashlight | Pending |
+| **Attention** | [The Brain Flashlight](/lessons/007_the_brain_flashlight.md) | 🟢 Active |
 | **Neural Nets** | The Highway vs. The Trail | Pending |
 | **Generative AI** | The Crystal Ball (Prediction) | Pending |
 | **Final Review** | The Agent's Graduation | Pending |
